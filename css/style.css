@@ -102,7 +102,7 @@ header .list-items {
 }
 
 .apresentacao {
-    height: 100vh;
+    height: 60vh;
     align-items: center;
     justify-content: space-between;
 }
@@ -174,8 +174,8 @@ header .list-items {
 
 #servicos h2 {
     color: #fff;
-    font-size: large32px;
-    margin-bottom: 10;
+    font-size: 32px;
+    margin-bottom: 10px;
 }
 
 .list-servicos {
@@ -222,7 +222,7 @@ header .list-items {
 
 #planos {
     flex-direction: column;
-    min-height: 100vh;
+    min-height: 60vh;
     padding-top: 50px;
 
 }
